@@ -42,6 +42,7 @@
   align-items: center;
   font-size: calc(10px + 2vmin);
   color: rgb(88, 83, 83);
+  padding: 2em;
 }
 
 .container{

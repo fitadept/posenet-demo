@@ -17,14 +17,14 @@ export default class App extends React.Component<Props, State>{
     return (
       <Router>
         <div className="app">
-          <header className="app-header">
+          {/* <header className="app-header">
             <NavLink to="/"><h5>Pose-Net</h5></NavLink>
             <NavLink to="/face"><h5>Face-Api</h5></NavLink>
-          </header>
+          </header> */}
           <div className="app-body">
             <Switch>
               <Route path="/" exact component={Pose} />
-              <Route path="/face" exact component={Pose} />
+              {/* <Route path="/face" exact component={Face} /> */}
             </Switch>
           </div>
         </div>
