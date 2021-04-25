@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/posenet-demo/static/css/main.165011c6.chunk.css",
+    "main.js": "/posenet-demo/static/js/main.65e69638.chunk.js",
+    "main.js.map": "/posenet-demo/static/js/main.65e69638.chunk.js.map",
+    "runtime-main.js": "/posenet-demo/static/js/runtime-main.017e60c4.js",
+    "runtime-main.js.map": "/posenet-demo/static/js/runtime-main.017e60c4.js.map",
+    "static/js/2.2f270463.chunk.js": "/posenet-demo/static/js/2.2f270463.chunk.js",
+    "static/js/2.2f270463.chunk.js.map": "/posenet-demo/static/js/2.2f270463.chunk.js.map",
+    "index.html": "/posenet-demo/index.html",
+    "precache-manifest.59d23b7f692e82cda6ea727a65a51392.js": "/posenet-demo/precache-manifest.59d23b7f692e82cda6ea727a65a51392.js",
+    "service-worker.js": "/posenet-demo/service-worker.js",
+    "static/css/main.165011c6.chunk.css.map": "/posenet-demo/static/css/main.165011c6.chunk.css.map",
+    "static/js/2.2f270463.chunk.js.LICENSE.txt": "/posenet-demo/static/js/2.2f270463.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.017e60c4.js",
+    "static/js/2.2f270463.chunk.js",
+    "static/css/main.165011c6.chunk.css",
+    "static/js/main.65e69638.chunk.js"
+  ]
+}
