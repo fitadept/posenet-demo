@@ -2,7 +2,7 @@
     "name": "ml5-examples",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://fitadept.github.io/posenet-demo",
+    "homepage": "https://fitadept.github.io/posenet-demo/",
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.5.0",
